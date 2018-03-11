@@ -7,6 +7,13 @@ body{
   background-image:url("../images/the-flatiron-building.png");
 }
 
+.bgimage{
+background-image: url("../images/the-flatiron-building.png");
+background-size: auto;
+font-size: 23px;
+color: white;
+}
+
 h1{
   font-size: 70px;
   color: White;
@@ -14,12 +21,10 @@ h1{
 
 h2{
   font-size: 32px;
-  color: gray;
 }
 
 h3{
   font-size: 23px;
-  color: gray;
 }
 
 h1, h2, h3{
